@@ -20,7 +20,7 @@ Atualmente estou focada em aprender e desenvolver aplicações utilizando Java, 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode" />
 
 </div>
 
