@@ -83,10 +83,6 @@ Aplicação desenvolvida para auxiliar na organização de hábitos e atividades
 
 </div>
 
-Discord: **xyrafildes**
-
-</div>
-
 ---
 
 <div align="center">
