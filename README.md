@@ -65,12 +65,20 @@ Aplicação desenvolvida para auxiliar na organização de hábitos e atividades
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rafaela-fayad-861422365" target="_blank">
+<a href="https://www.linkedin.com/in/rafaela-fayad-861422365">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://www.instagram.com/xyrafildes/" target="_blank">
+<a href="https://www.instagram.com/xyrafildes/">
   <img src="https://img.icons8.com/color/48/instagram-new--v1.png" height="48" />
+</a>
+
+<a href="mailto:rafaelamacielfayad@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://discord.com/users/971903881904783360">
+  <img src="https://skillicons.dev/icons?i=discord" />
 </a>
 
 </div>
