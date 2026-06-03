@@ -73,17 +73,9 @@ Aplicação desenvolvida para auxiliar na organização de hábitos e atividades
   <img src="https://img.icons8.com/color/48/instagram-new--v1.png" height="48" />
 </a>
 
-<a href="mailto:rafaelamacielfayad@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://discord.com/users/SEU_ID_DO_DISCORD" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" />
-</a>
-
 </div>
 
-💬 Discord: **xyrafildes**
+Discord: **xyrafildes**
 
 </div>
 
