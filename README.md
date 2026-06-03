@@ -52,18 +52,6 @@ Aplicação desenvolvida para auxiliar na organização de hábitos e atividades
 
 ---
 
-## Estatísticas GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rafaelafayad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelafayad&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## Objetivos
 
 - Aprimorar conhecimentos em diversas linguagens de programação
