@@ -2,7 +2,7 @@
 
 <h1>Rafaela Fayad</h1>
 
-### Estudante de Desenvolvimento de Software
+<h3>Estudante de Desenvolvimento de Software</h3>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 Sou estudante de tecnologia e busco desenvolver projetos práticos que me permitam evoluir minhas habilidades em programação.
 
-Atualmente estou focada em aprender e desenvolver aplicações utilizando Java, HTML, CSS e ferramentas de versionamento como Git e GitHub.
+Atualmente estou focada em aprender e desenvolver aplicações utilizando JavaScript, HTML, CSS e ferramentas de versionamento como Git e GitHub.
 
 ---
 
@@ -28,7 +28,7 @@ Atualmente estou focada em aprender e desenvolver aplicações utilizando Java, 
 
 ## Atualmente Estudando
 
-- Java
+- JavaScript
 - HTML
 - CSS
 - Git
@@ -56,7 +56,7 @@ Aplicação desenvolvida para auxiliar na organização de hábitos e atividades
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rafaelafayad&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rafaelafayad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelafayad&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -66,8 +66,10 @@ Aplicação desenvolvida para auxiliar na organização de hábitos e atividades
 
 ## Objetivos
 
-- Aprimorar conhecimentos em diversas linguagens de programação;
-- Contribuir em projetos;
+- Aprimorar conhecimentos em diversas linguagens de programação
+- Contribuir em projetos
+- Desenvolver aplicações completas
+- Construir um portfólio profissional
 
 ---
 
@@ -75,7 +77,9 @@ Aplicação desenvolvida para auxiliar na organização de hábitos e atividades
 
 <div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafaela-fayad-861422365)
+<a href="https://www.linkedin.com/in/rafaela-fayad-861422365">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
 </div>
 
