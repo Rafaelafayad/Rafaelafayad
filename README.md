@@ -29,11 +29,10 @@ Atualmente estou focada em aprender e desenvolver aplicações utilizando Java, 
 ## Atualmente Estudando
 
 - Java
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Git
 - GitHub
-- Lógica de Programação
 - Boas práticas de desenvolvimento
 
 ---
