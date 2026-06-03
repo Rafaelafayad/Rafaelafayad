@@ -69,6 +69,24 @@ Aplicação desenvolvida para auxiliar na organização de hábitos e atividades
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/xyrafildes">
+  <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="48" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:rafaelamacielfayad@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+<div align="center">
+
+💬 Discord: **xyrafildes**
+
 </div>
 
 ---
